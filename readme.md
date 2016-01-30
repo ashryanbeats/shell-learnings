@@ -23,6 +23,10 @@ This could return, for example, these directories:
 ./icon-repo
 ```
 
+`ps -e | grep searchstring` : list out all running processes and search the results for a particular sting.
+
+`kill -9 [pid]` : kill a process by process ID.
+
 ## Shell scripts
 (Steps for creating a shell script, script syntax, variables, arugments, etc.)
 
